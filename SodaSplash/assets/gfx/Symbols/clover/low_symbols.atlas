@@ -1,0 +1,20 @@
+
+low_symbols.png
+size: 570,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 4
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1
+clover
+  rotate: false
+  xy: 304, 2
+  size: 264, 302
+  orig: 264, 302
+  offset: 0, 0
+  index: -1

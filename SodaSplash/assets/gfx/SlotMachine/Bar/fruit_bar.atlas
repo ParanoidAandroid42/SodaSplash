@@ -1,0 +1,649 @@
+
+fruit_bar.png
+size: 1996,1998
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fruit_bar_juice_short/00000
+  rotate: false
+  xy: 2, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00001
+  rotate: true
+  xy: 2, 328
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00002
+  rotate: true
+  xy: 2, 274
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00003
+  rotate: true
+  xy: 2, 220
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00004
+  rotate: true
+  xy: 2, 166
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00005
+  rotate: true
+  xy: 2, 112
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00006
+  rotate: true
+  xy: 2, 58
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00007
+  rotate: true
+  xy: 2, 4
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00008
+  rotate: true
+  xy: 810, 1944
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00009
+  rotate: false
+  xy: 1618, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00010
+  rotate: false
+  xy: 1672, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00011
+  rotate: false
+  xy: 1726, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00012
+  rotate: false
+  xy: 1780, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00013
+  rotate: false
+  xy: 1834, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00014
+  rotate: false
+  xy: 1888, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00015
+  rotate: false
+  xy: 1942, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00016
+  rotate: false
+  xy: 56, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00017
+  rotate: false
+  xy: 110, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00018
+  rotate: false
+  xy: 164, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00019
+  rotate: false
+  xy: 218, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00020
+  rotate: false
+  xy: 272, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00021
+  rotate: false
+  xy: 326, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00022
+  rotate: false
+  xy: 380, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00023
+  rotate: false
+  xy: 434, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00024
+  rotate: false
+  xy: 488, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00025
+  rotate: false
+  xy: 542, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00026
+  rotate: false
+  xy: 596, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00027
+  rotate: false
+  xy: 650, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00028
+  rotate: false
+  xy: 704, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00029
+  rotate: true
+  xy: 758, 1890
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00030
+  rotate: true
+  xy: 758, 1836
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00031
+  rotate: true
+  xy: 758, 1782
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00032
+  rotate: true
+  xy: 758, 1728
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00033
+  rotate: true
+  xy: 758, 1674
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00034
+  rotate: true
+  xy: 758, 1620
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00035
+  rotate: true
+  xy: 758, 1566
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00036
+  rotate: true
+  xy: 758, 1512
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00037
+  rotate: true
+  xy: 758, 1458
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00038
+  rotate: true
+  xy: 758, 1404
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00039
+  rotate: true
+  xy: 758, 1350
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00040
+  rotate: true
+  xy: 758, 1296
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00041
+  rotate: true
+  xy: 758, 1242
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00042
+  rotate: false
+  xy: 758, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00043
+  rotate: false
+  xy: 56, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00044
+  rotate: false
+  xy: 110, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00045
+  rotate: false
+  xy: 164, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00046
+  rotate: false
+  xy: 218, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00047
+  rotate: false
+  xy: 272, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00048
+  rotate: false
+  xy: 326, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00049
+  rotate: false
+  xy: 380, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00050
+  rotate: false
+  xy: 434, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00051
+  rotate: false
+  xy: 488, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00052
+  rotate: false
+  xy: 542, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00053
+  rotate: false
+  xy: 596, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00054
+  rotate: false
+  xy: 650, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00055
+  rotate: false
+  xy: 704, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00056
+  rotate: true
+  xy: 810, 380
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00057
+  rotate: true
+  xy: 810, 326
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00058
+  rotate: true
+  xy: 810, 272
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00059
+  rotate: true
+  xy: 810, 218
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00060
+  rotate: true
+  xy: 810, 164
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00061
+  rotate: true
+  xy: 810, 110
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00062
+  rotate: true
+  xy: 810, 56
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00063
+  rotate: true
+  xy: 810, 2
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00064
+  rotate: false
+  xy: 1618, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00065
+  rotate: false
+  xy: 1672, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00066
+  rotate: false
+  xy: 1726, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00067
+  rotate: false
+  xy: 1780, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00068
+  rotate: false
+  xy: 1834, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00069
+  rotate: false
+  xy: 1888, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00070
+  rotate: false
+  xy: 1942, 382
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00071
+  rotate: false
+  xy: 812, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00072
+  rotate: false
+  xy: 866, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00073
+  rotate: false
+  xy: 920, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00074
+  rotate: false
+  xy: 974, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00075
+  rotate: false
+  xy: 1028, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00076
+  rotate: false
+  xy: 1082, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00077
+  rotate: false
+  xy: 1136, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00078
+  rotate: false
+  xy: 1190, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00079
+  rotate: false
+  xy: 1244, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00080
+  rotate: false
+  xy: 1298, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00081
+  rotate: false
+  xy: 1352, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00082
+  rotate: false
+  xy: 1406, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00083
+  rotate: false
+  xy: 1460, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00084
+  rotate: false
+  xy: 1514, 434
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00090
+  rotate: false
+  xy: 2, 1190
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+
+fruit_bar2.png
+size: 272,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fruit_bar_juice_short/00085
+  rotate: false
+  xy: 2, 2
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00086
+  rotate: false
+  xy: 56, 2
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00087
+  rotate: false
+  xy: 110, 2
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00088
+  rotate: false
+  xy: 164, 2
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1
+fruit_bar_juice_short/00089
+  rotate: false
+  xy: 218, 2
+  size: 52, 806
+  orig: 62, 813
+  offset: 5, 4
+  index: -1

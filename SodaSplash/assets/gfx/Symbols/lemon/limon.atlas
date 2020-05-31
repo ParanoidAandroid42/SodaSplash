@@ -1,0 +1,69 @@
+
+limon.png
+size: 364,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+droplet1
+  rotate: false
+  xy: 304, 467
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+droplet2
+  rotate: false
+  xy: 339, 492
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+droplet4
+  rotate: false
+  xy: 304, 449
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+droplet5
+  rotate: true
+  xy: 219, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+droplet6
+  rotate: false
+  xy: 339, 474
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+l_ref
+  rotate: false
+  xy: 2, 220
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1
+leaf1
+  rotate: false
+  xy: 219, 140
+  size: 143, 78
+  orig: 143, 78
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 219, 30
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+limon
+  rotate: false
+  xy: 2, 2
+  size: 215, 216
+  orig: 215, 216
+  offset: 0, 0
+  index: -1

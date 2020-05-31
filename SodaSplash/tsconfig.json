@@ -1,0 +1,13 @@
+﻿{
+  "compilerOptions": {
+      "target": "es5",
+      "module": "none",
+      "outFile": "./dist/js/bundle.js",
+      "noImplicitAny": false,
+      "removeComments": true
+  },
+  "exclude":[
+      "node_modules",
+      "node_modules/@types"
+  ]
+}

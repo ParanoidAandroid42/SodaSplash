@@ -1,0 +1,106 @@
+Date : 2019-12-19 11:14:49
+Directory : c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src
+Total : 62 files,  3163 codes, 405 comments, 529 blanks, all 4097 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| TypeScript |         62 |      3,163 |        405 |        529 |      4,097 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                    |         62 |      3,163 |        405 |        529 |      4,097 |
+| core                                                                                                                                 |         27 |      1,321 |        293 |        210 |      1,824 |
+| core\controller                                                                                                                      |          5 |        144 |         19 |         34 |        197 |
+| core\interface                                                                                                                       |          2 |         89 |         27 |         13 |        129 |
+| core\managers                                                                                                                        |          5 |        400 |         92 |         79 |        571 |
+| core\modules                                                                                                                         |         15 |        688 |        155 |         84 |        927 |
+| dev                                                                                                                                  |         35 |      1,842 |        112 |        319 |      2,273 |
+| dev\core                                                                                                                             |         11 |        298 |         18 |         51 |        367 |
+| dev\core\animation                                                                                                                   |          2 |        102 |          4 |         20 |        126 |
+| dev\core\controller                                                                                                                  |          1 |         10 |          0 |          5 |         15 |
+| dev\core\enum                                                                                                                        |          5 |        128 |         12 |         13 |        153 |
+| dev\core\information                                                                                                                 |          2 |         47 |          2 |         12 |         61 |
+| dev\core\interfaces                                                                                                                  |          1 |         11 |          0 |          1 |         12 |
+| dev\games                                                                                                                            |         24 |      1,544 |         94 |        268 |      1,906 |
+| dev\games\slot                                                                                                                       |         24 |      1,544 |         94 |        268 |      1,906 |
+| dev\games\slot\animation                                                                                                             |          1 |         12 |          0 |          5 |         17 |
+| dev\games\slot\controller                                                                                                            |          5 |        276 |         39 |         59 |        374 |
+| dev\games\slot\information                                                                                                           |          3 |        463 |          9 |         59 |        531 |
+| dev\games\slot\interfaces                                                                                                            |          2 |         49 |          0 |          4 |         53 |
+| dev\games\slot\modules                                                                                                               |         10 |        600 |         35 |         98 |        733 |
+| dev\games\slot\stages                                                                                                                |          3 |        144 |         11 |         43 |        198 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                             | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\controller\AnimationController.ts             | TypeScript |         12 |          1 |          3 |         16 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\controller\DataController.ts                  | TypeScript |         38 |          2 |          9 |         49 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\controller\GameController.ts                  | TypeScript |         26 |          6 |          7 |         39 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\controller\ResourceController.ts              | TypeScript |         13 |          1 |          4 |         18 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\controller\SoundController.ts                 | TypeScript |         55 |          9 |         11 |         75 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\interface\IAssetConfig.ts                     | TypeScript |         82 |         27 |         12 |        121 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\interface\IStartConfig.ts                     | TypeScript |          7 |          0 |          1 |          8 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\managers\AnimationManager.ts                  | TypeScript |         45 |          3 |         10 |         58 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\managers\DisplayManager.ts                    | TypeScript |        147 |         13 |         22 |        182 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\managers\ResourceManager.ts                   | TypeScript |         80 |         27 |         25 |        132 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\managers\StageManager.ts                      | TypeScript |         79 |         28 |         14 |        121 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\managers\TickerManager.ts                     | TypeScript |         49 |         21 |          8 |         78 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Button.ts                             | TypeScript |         94 |         36 |         15 |        145 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\ButtonText.ts                         | TypeScript |         13 |         10 |          5 |         28 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Container.ts                          | TypeScript |         11 |          7 |          1 |         19 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Container2d.ts                        | TypeScript |         21 |          8 |          4 |         33 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Graphic.ts                            | TypeScript |        101 |          9 |         10 |        120 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Plane2d.ts                            | TypeScript |         22 |          8 |          3 |         33 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\SequenceAnimation.ts                  | TypeScript |         69 |         10 |          6 |         85 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Spine.ts                              | TypeScript |         80 |          9 |         10 |         99 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Sprite.ts                             | TypeScript |         54 |          9 |          5 |         68 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Sprite2d.ts                           | TypeScript |         61 |          9 |          7 |         77 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\SpriteText.ts                         | TypeScript |         13 |          9 |          4 |         26 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Stage.ts                              | TypeScript |         28 |         16 |          7 |         51 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\StatElement.ts                        | TypeScript |         15 |          1 |          1 |         17 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Text.ts                               | TypeScript |         53 |          7 |          3 |         63 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\core\modules\Text2d.ts                             | TypeScript |         53 |          7 |          3 |         63 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\animation\GeneralAnimation.ts             | TypeScript |         13 |          4 |          5 |         22 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\animation\TimerAnimation.ts               | TypeScript |         89 |          0 |         15 |        104 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\controller\InitController.ts              | TypeScript |         10 |          0 |          5 |         15 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\enum\AnimationEnum.ts                     | TypeScript |         23 |          6 |          3 |         32 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\enum\AssetEnum.ts                         | TypeScript |          4 |          0 |          1 |          5 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\enum\DataEnum.ts                          | TypeScript |          8 |          3 |          1 |         12 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\enum\DisplayEnum.ts                       | TypeScript |         16 |          3 |          3 |         22 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\enum\ResourceEnum.ts                      | TypeScript |         77 |          0 |          5 |         82 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\information\AssetInformation.ts           | TypeScript |         34 |          1 |          7 |         42 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\information\GameInformation.ts            | TypeScript |         13 |          1 |          5 |         19 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\core\interfaces\IDisplayConfig.ts              | TypeScript |         11 |          0 |          1 |         12 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\animation\BigWinAnimation.ts        | TypeScript |         12 |          0 |          5 |         17 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\controller\AnimationController.ts   | TypeScript |         43 |          5 |         12 |         60 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\controller\DataController.ts        | TypeScript |         29 |          1 |          7 |         37 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\controller\GameController.ts        | TypeScript |         58 |          1 |         15 |         74 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\controller\ResourceController.ts    | TypeScript |         31 |          4 |         11 |         46 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\controller\SlotMachineController.ts | TypeScript |        115 |         28 |         14 |        157 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\information\AnimationInfo.ts        | TypeScript |         12 |          2 |          3 |         17 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\information\AssetInfo.ts            | TypeScript |        270 |          6 |         45 |        321 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\information\SlotInfo.ts             | TypeScript |        181 |          1 |         11 |        193 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\interfaces\IResponseData.ts         | TypeScript |          5 |          0 |          1 |          6 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\interfaces\ISlotMachineInfo.ts      | TypeScript |         44 |          0 |          3 |         47 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\Background.ts               | TypeScript |         80 |          0 |         16 |         96 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\ControlBar.ts               | TypeScript |         38 |          0 |          7 |         45 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\Machine.ts                  | TypeScript |        111 |          1 |         15 |        127 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\Menu.ts                     | TypeScript |         10 |          0 |          3 |         13 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\SliderMachine.ts            | TypeScript |        134 |          1 |         17 |        152 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\SliderMatchIcon.ts          | TypeScript |         26 |          7 |          4 |         37 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\SliderPlatform.ts           | TypeScript |         64 |         13 |         14 |         91 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\Symbol.ts                   | TypeScript |         37 |          7 |          7 |         51 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\Wheel.ts                    | TypeScript |         51 |          0 |          7 |         58 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\modules\Winlines.ts                 | TypeScript |         49 |          6 |          8 |         63 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\stages\BonusStage.ts                | TypeScript |         35 |          3 |         10 |         48 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\stages\LoaderStage.ts               | TypeScript |         45 |          3 |         15 |         63 |
+| c:\Users\topuz\.ssh\SevenCore\Janus\JanusGames\GameSkins\SlotSkins\SodaSplash\src\dev\games\slot\stages\MainStage.ts                 | TypeScript |         64 |          5 |         18 |         87 |
+| Total                                                                                                                                |            |      3,163 |        405 |        529 |      4,097 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

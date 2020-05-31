@@ -1,0 +1,34 @@
+
+erik.png
+size: 713,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erik
+  rotate: false
+  xy: 304, 44
+  size: 228, 258
+  orig: 228, 258
+  offset: 0, 0
+  index: -1
+erik_ref
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1
+leaf1
+  rotate: true
+  xy: 534, 116
+  size: 186, 177
+  orig: 186, 177
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: true
+  xy: 534, 5
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1

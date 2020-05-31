@@ -1,0 +1,55 @@
+
+symbol_scatter.png
+size: 692,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 304, 21
+  size: 282, 122
+  orig: 282, 122
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 633, 44
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 428, 2
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 633, 4
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 507, 13
+  size: 124, 82
+  orig: 124, 82
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: false
+  xy: 428, 97
+  size: 228, 206
+  orig: 228, 206
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 3
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1

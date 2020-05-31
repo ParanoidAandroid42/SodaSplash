@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Modak';
+    src: url('Modak.eot');
+    src: url('Modak.eot?#iefix') format('embedded-opentype'),
+        url('Modak.woff2') format('woff2'),
+        url('Modak.woff') format('woff'),
+        url('Modak.ttf') format('truetype'),
+        url('Modak.svg#Modak') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Luckiest Guy';
+    src: url('LuckiestGuy-Regular.eot');
+    src: url('LuckiestGuy-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LuckiestGuy-Regular.woff2') format('woff2'),
+        url('LuckiestGuy-Regular.woff') format('woff'),
+        url('LuckiestGuy-Regular.ttf') format('truetype'),
+        url('LuckiestGuy-Regular.svg#LuckiestGuy-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

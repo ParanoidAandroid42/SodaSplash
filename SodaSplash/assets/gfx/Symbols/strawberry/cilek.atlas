@@ -1,0 +1,90 @@
+
+cilek.png
+size: 575,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_leaf_01
+  rotate: false
+  xy: 506, 225
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+c_leaf_02
+  rotate: false
+  xy: 304, 17
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+c_leaf_03
+  rotate: true
+  xy: 537, 105
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+c_leaf_04
+  rotate: false
+  xy: 506, 89
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+c_leaf_05
+  rotate: false
+  xy: 382, 20
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+c_leaf_06
+  rotate: false
+  xy: 506, 171
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+c_leaf_07
+  rotate: false
+  xy: 457, 24
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+c_leaf_08
+  rotate: true
+  xy: 543, 183
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+c_leaf_09
+  rotate: false
+  xy: 540, 37
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+c_leaf_10
+  rotate: false
+  xy: 457, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+cilek_body
+  rotate: false
+  xy: 304, 78
+  size: 200, 233
+  orig: 200, 233
+  offset: 0, 0
+  index: -1
+ref_cilek
+  rotate: false
+  xy: 2, 11
+  size: 300, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1

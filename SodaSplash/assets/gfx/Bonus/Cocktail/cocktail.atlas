@@ -1,0 +1,181 @@
+
+cocktail.png
+size: 881,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asid
+  rotate: false
+  xy: 377, 19
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+droplet1
+  rotate: false
+  xy: 148, 24
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+droplet2
+  rotate: false
+  xy: 722, 5
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+droplet3
+  rotate: true
+  xy: 761, 11
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+glass1
+  rotate: false
+  xy: 2, 59
+  size: 181, 211
+  orig: 181, 211
+  offset: 0, 0
+  index: -1
+grape1
+  rotate: false
+  xy: 683, 44
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+grape13
+  rotate: false
+  xy: 829, 15
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+grape19
+  rotate: true
+  xy: 675, 2
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+grape8
+  rotate: false
+  xy: 788, 48
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+grape_lq1
+  rotate: false
+  xy: 617, 2
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+grape_lq2
+  rotate: false
+  xy: 705, 99
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+juice
+  rotate: true
+  xy: 185, 5
+  size: 170, 190
+  orig: 170, 190
+  offset: 0, 0
+  index: -1
+l1
+  rotate: true
+  xy: 620, 50
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 794, 98
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 829, 60
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 734, 45
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: true
+  xy: 814, 166
+  size: 104, 57
+  orig: 104, 57
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 620, 92
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+lemon
+  rotate: false
+  xy: 533, 84
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+lemon2
+  rotate: false
+  xy: 485, 202
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+plum
+  rotate: true
+  xy: 597, 174
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+strawberry
+  rotate: true
+  xy: 533, 16
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+strawberry_lq
+  rotate: false
+  xy: 710, 172
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 2, 14
+  size: 144, 43
+  orig: 146, 45
+  offset: 1, 1
+  index: -1
+ui
+  rotate: false
+  xy: 185, 177
+  size: 298, 93
+  orig: 300, 95
+  offset: 1, 1
+  index: -1
