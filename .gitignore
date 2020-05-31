@@ -1,0 +1,18 @@
+# IntelliJ Paths
+.idea/*
+!.idea/runConfigurations
+
+# VSCode Path
+.vscode/**/*
+
+# Node Modules
+node_modules/
+
+# tokens
+tokens/
+styles/
+bundles/
+dist/
+
+*.log
+pnpm-lock.yaml

@@ -1,0 +1,118 @@
+
+symbol_wild.png
+size: 1114,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 6
+  size: 425, 425
+  orig: 427, 427
+  offset: 1, 1
+  index: -1
+d
+  rotate: true
+  xy: 429, 2
+  size: 114, 141
+  orig: 114, 141
+  offset: 0, 0
+  index: -1
+green1
+  rotate: true
+  xy: 572, 8
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+green2
+  rotate: true
+  xy: 989, 76
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+i
+  rotate: true
+  xy: 973, 168
+  size: 126, 132
+  orig: 126, 132
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 734, 119
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+purple1
+  rotate: false
+  xy: 897, 22
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+purple2
+  rotate: true
+  xy: 836, 122
+  size: 140, 135
+  orig: 140, 135
+  offset: 0, 0
+  index: -1
+purple3
+  rotate: false
+  xy: 799, 14
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+red1
+  rotate: false
+  xy: 886, 280
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+red2
+  rotate: true
+  xy: 886, 351
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+red3
+  rotate: false
+  xy: 989, 11
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+surface
+  rotate: false
+  xy: 429, 118
+  size: 303, 313
+  orig: 303, 313
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 734, 264
+  size: 167, 150
+  orig: 167, 150
+  offset: 0, 0
+  index: -1
+yellow1
+  rotate: false
+  xy: 690, 9
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+yellow2
+  rotate: false
+  xy: 973, 296
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1

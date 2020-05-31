@@ -1,0 +1,19 @@
+{
+  "name": "pixi-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Asli Tuzcuoglu",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "ts-node": "^8.4.1",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^4.0.0",
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "lite-server"
+  }
+}
