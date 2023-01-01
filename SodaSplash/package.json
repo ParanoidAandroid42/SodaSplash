@@ -7,7 +7,7 @@
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^8.4.1",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^2.8.3"
   },
   "scripts": {
