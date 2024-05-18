@@ -1,18 +1,19 @@
-# IntelliJ Paths
-.idea/*
-!.idea/runConfigurations
+.nyc_output/
+/dist/
+.vscode/
+/_attic/
+/build/
+coverage/
+node_modules*/
 
-# VSCode Path
-.vscode/**/*
-
-# Node Modules
-node_modules/
-
-# tokens
-tokens/
-styles/
-bundles/
-dist/
-
+# no log files
 *.log
 pnpm-lock.yaml
+
+# no npm
+package-lock.json
+npm-shrinkwrap.json
+
+# Idea/PhpStorm
+.idea/*
+!.idea/inspectionProfiles/
