@@ -1,4 +1,4 @@
-# Basic Slot Game Code Base - SodaSplash
+# Game Code Base using PixiJS - With Basic Slot Game Example (SodaSplash)
 SodaSplash is a basic slot game that demonstrates the core functionalities of a slot machine, including spinning reels, stopping logic, and win evaluation. The game is built using PixiJS, a fast 2D rendering engine that uses WebGL, making it highly performant and suitable for interactive graphics applications.
 
 ## Development and Customization
