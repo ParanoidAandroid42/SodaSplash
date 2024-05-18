@@ -8,6 +8,14 @@ This project will make it easier for those new to PixiJS to get started, and it 
 
 Feel free to develop and customize the project as you wish. Although I am not actively working on this project, do not hesitate to reach out if you need any help. We hope it proves useful and helps you in your projects.
 
+## Demo
+This project is made to play a basic slot game. However, you can use the base with small changes.
+
+**Simple video examples created based on this project:**
+- **SodaSplash:** [here](https://www.youtube.com/watch?v=bVqKSk9MW2I)
+- **Debug Test**: [here](https://www.youtube.com/watch?v=fHEo1WHgz9I)
+- **Example for a basic space shooter game:** [here](https://www.youtube.com/watch?v=vYFC3HVb3AE)
+
 ## Project Setup
 
 To set up the project, follow these steps:
@@ -30,8 +38,5 @@ To run the project locally, use the following command:
 
 This will start a development server and open the project in your default web browser.
 
-## Demo
-For a quick overview of what SodaSplash can do, check out the demo video:
-[here](https://www.youtube.com/watch?v=bVqKSk9MW2I)
 
 
