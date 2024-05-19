@@ -6,7 +6,7 @@ In this project, you can manage components and renderer settings based on PixiJS
 
 I hope this project will make it easier for those new to PixiJS to get started, and it provides some insights into essential steps like spinning and winning for those looking to develop a slot game.
 
-Feel free to develop and customize the project as you wish. Although I am not actively working on this project, do not hesitate to reach out if you need any help. We hope it proves useful and helps you in your projects.
+Feel free to develop and customize the project as you wish. Although I am not actively working on this project, do not hesitate to reach out if you need any help. I hope it proves useful and helps you in your projects.
 
 ## Demo
 This project is made to play a basic slot game. However, you can use the base with small changes.
